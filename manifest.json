@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "songs_version": 1,
+  "songs_version": 1.1,
   "songs_url": "https://keenops.github.io/nyimbo-zetu-data/songs.json",
-  "updated_at": "2025-09-19T12:00:00Z",
+  "updated_at": "2025-09-19T12:01:00Z",
   "notes": "Initial release with 67 hymns."
 }

@@ -1,0 +1,110 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Mungu ni Mwema",
+      "number": 1,
+      "author": "Unknown",
+      "key": "G",
+      "tempo": "Moderate",
+      "verses": [
+        {
+          "number": 1,
+          "text": [
+            "Mungu ni mwema, Mungu ni mwema,",
+            "Ananikaribia kila wakati,",
+            "Moyo wangu ukimshukuru,",
+            "Mungu ni mwema kwangu."
+          ]
+        },
+        {
+          "number": 2,
+          "text": [
+            "Yesu ni rafiki, Yesu ni rafiki,",
+            "Ananikaribia kila wakati,",
+            "Moyo wangu ukimshukuru,",
+            "Yesu ni rafiki kwangu."
+          ]
+        }
+      ],
+      "chorus": {
+        "text": [
+          "Asante Bwana, asante Bwana,",
+          "Kwa upendo wako mkuu,",
+          "Asante Bwana, asante Bwana,",
+          "Nitakushukuru milele."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bwana Yesu Ni Mchungaji",
+      "number": 2,
+      "author": "Traditional",
+      "key": "D",
+      "tempo": "Slow",
+      "verses": [
+        {
+          "number": 1,
+          "text": [
+            "Bwana Yesu ni Mchungaji wangu,",
+            "Sitapungukiwa na kitu,",
+            "Ananifanya kulala majani mabichi,",
+            "Ananielekeza maji ya utulivu."
+          ]
+        },
+        {
+          "number": 2,
+          "text": [
+            "Ananirejesha nafsi yangu,",
+            "Aniongoza katika njia za haki,",
+            "Kwa ajili ya jina lake,",
+            "Hata nikipita bondeni la uvuli wa mauti."
+          ]
+        }
+      ],
+      "chorus": {
+        "text": [
+          "Sitaogopa uovu wowote,",
+          "Kwa maana wewe u pamoja nami,",
+          "Fimbo yako na mkongojo wako,",
+          "Vya ninifariji."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Twimbie Halleluya",
+      "number": 3,
+      "author": "Unknown",
+      "key": "C",
+      "tempo": "Fast",
+      "verses": [
+        {
+          "number": 1,
+          "text": [
+            "Twimbie halleluya, twimbie halleluya,",
+            "Yesu amefufuka, twimbie halleluya,",
+            "Mauti imeshindwa, twimbie halleluya,",
+            "Yesu ni mfalme, twimbie halleluya."
+          ]
+        }
+      ],
+      "chorus": {
+        "text": [
+          "Halleluya, halleluya,",
+          "Yesu ni Bwana,",
+          "Halleluya, halleluya,",
+          "Ametukombola."
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "total_songs": 3,
+    "language": "Swahili",
+    "description": "Swahili hymns with verses and chorus for offline use",
+    "last_updated": "2024-01-01"
+  }
+}

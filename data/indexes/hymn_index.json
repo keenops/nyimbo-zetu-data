@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "total_hymns": 3,
+  "last_updated": "2024-01-01",
+  "hymns": [
+    {
+      "id": 1,
+      "title": "Mungu Ni Mwema",
+      "subtitle": "God is Good",
+      "category": "praise",
+      "file": "hymns/001.json",
+      "tags": ["praise", "worship", "goodness", "traditional"],
+      "has_chorus": true,
+      "verse_count": 3
+    },
+    {
+      "id": 2,
+      "title": "Yesu Ni Mfalme",
+      "subtitle": "Jesus is King",
+      "category": "worship",
+      "file": "hymns/002.json",
+      "tags": ["worship", "jesus", "kingship", "salvation"],
+      "has_chorus": true,
+      "verse_count": 3
+    },
+    {
+      "id": 3,
+      "title": "Maombi ya Asubuhi",
+      "subtitle": "Morning Prayer",
+      "category": "prayer",
+      "file": "hymns/003.json",
+      "tags": ["prayer", "morning", "guidance", "blessing"],
+      "has_chorus": false,
+      "verse_count": 2
+    }
+  ],
+  "categories": {
+    "praise": [1],
+    "worship": [2],
+    "prayer": [3]
+  },
+  "tags": {
+    "praise": [1],
+    "worship": [1, 2],
+    "goodness": [1],
+    "traditional": [1],
+    "jesus": [2],
+    "kingship": [2],
+    "salvation": [2],
+    "prayer": [3],
+    "morning": [3],
+    "guidance": [3],
+    "blessing": [3]
+  }
+}

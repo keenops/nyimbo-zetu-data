@@ -1,0 +1,427 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-01-01",
+  "total_hymns": 3,
+  "index": {
+    "version": "1.0.0",
+    "total_hymns": 3,
+    "last_updated": "2024-01-01",
+    "hymns": [
+      {
+        "id": 1,
+        "title": "Mungu Ni Mwema",
+        "subtitle": "God is Good",
+        "category": "praise",
+        "file": "hymns/001.json",
+        "tags": [
+          "praise",
+          "worship",
+          "goodness",
+          "traditional"
+        ],
+        "has_chorus": true,
+        "verse_count": 3
+      },
+      {
+        "id": 2,
+        "title": "Yesu Ni Mfalme",
+        "subtitle": "Jesus is King",
+        "category": "worship",
+        "file": "hymns/002.json",
+        "tags": [
+          "worship",
+          "jesus",
+          "kingship",
+          "salvation"
+        ],
+        "has_chorus": true,
+        "verse_count": 3
+      },
+      {
+        "id": 3,
+        "title": "Maombi ya Asubuhi",
+        "subtitle": "Morning Prayer",
+        "category": "prayer",
+        "file": "hymns/003.json",
+        "tags": [
+          "prayer",
+          "morning",
+          "guidance",
+          "blessing"
+        ],
+        "has_chorus": false,
+        "verse_count": 2
+      }
+    ],
+    "categories": {
+      "praise": [
+        1
+      ],
+      "worship": [
+        2
+      ],
+      "prayer": [
+        3
+      ]
+    },
+    "tags": {
+      "praise": [
+        1
+      ],
+      "worship": [
+        1,
+        2
+      ],
+      "goodness": [
+        1
+      ],
+      "traditional": [
+        1
+      ],
+      "jesus": [
+        2
+      ],
+      "kingship": [
+        2
+      ],
+      "salvation": [
+        2
+      ],
+      "prayer": [
+        3
+      ],
+      "morning": [
+        3
+      ],
+      "guidance": [
+        3
+      ],
+      "blessing": [
+        3
+      ]
+    }
+  },
+  "hymns": {
+    "1": {
+      "id": 1,
+      "title": "Mungu Ni Mwema",
+      "subtitle": "God is Good",
+      "author": "Traditional",
+      "category": "praise",
+      "meter": "8.7.8.7",
+      "verses": [
+        {
+          "number": 1,
+          "text": [
+            "Mungu ni mwema, mwema milele",
+            "Upendo wake hauna mwisho",
+            "Atujalio kwa huruma yake",
+            "Tuimbe sifa zake daima"
+          ]
+        },
+        {
+          "number": 2,
+          "text": [
+            "Katika shida na katika furaha",
+            "Mungu yu pamoja nasi",
+            "Hatuachi wala kutuacha",
+            "Tuimbe sifa zake daima"
+          ]
+        },
+        {
+          "number": 3,
+          "text": [
+            "Mfalme wa wafalme Yeye",
+            "Bwana wa mabwana Yeye",
+            "Tunamwimbia kwa moyo wote",
+            "Tuimbe sifa zake daima"
+          ]
+        }
+      ],
+      "chorus": {
+        "text": [
+          "Alleluja, Alleluja",
+          "Mungu ni mwema milele",
+          "Alleluja, Alleluja",
+          "Tuimbe sifa zake"
+        ],
+        "position": "after_each_verse"
+      },
+      "tags": [
+        "praise",
+        "worship",
+        "goodness",
+        "traditional"
+      ],
+      "scripture_references": [
+        "Zaburi 100:5",
+        "1 Wakorintho 10:31"
+      ],
+      "created_date": "2024-01-01",
+      "modified_date": "2024-01-01"
+    },
+    "2": {
+      "id": 2,
+      "title": "Yesu Ni Mfalme",
+      "subtitle": "Jesus is King",
+      "author": "Traditional",
+      "category": "worship",
+      "meter": "8.8.8.8",
+      "verses": [
+        {
+          "number": 1,
+          "text": [
+            "Yesu ni Mfalme, Mfalme wa amani",
+            "Anatukarimu kwa neema yake",
+            "Tunamwimbia kwa furaha kubwa",
+            "Yesu ni Mfalme wa wafalme wote"
+          ]
+        },
+        {
+          "number": 2,
+          "text": [
+            "Aliyezaliwa katika maziba",
+            "Aliokufa msalabani kwa ajili yetu",
+            "Alifufuka siku ya tatu",
+            "Yesu ni Mfalme wa wafalme wote"
+          ]
+        },
+        {
+          "number": 3,
+          "text": [
+            "Atatawala milele na milele",
+            "Utukufu na heshima ni vyake",
+            "Kila goti litapiga magoti",
+            "Yesu ni Mfalme wa wafalme wote"
+          ]
+        }
+      ],
+      "chorus": {
+        "text": [
+          "Hosana, Hosana",
+          "Kwa Mfalme wa Israeli",
+          "Hosana, Hosana",
+          "Yesu ni Mfalme wetu"
+        ],
+        "position": "after_each_verse"
+      },
+      "tags": [
+        "worship",
+        "jesus",
+        "kingship",
+        "salvation"
+      ],
+      "scripture_references": [
+        "Ufunuo 19:16",
+        "Mathayo 21:9"
+      ],
+      "created_date": "2024-01-01",
+      "modified_date": "2024-01-01"
+    },
+    "3": {
+      "id": 3,
+      "title": "Maombi ya Asubuhi",
+      "subtitle": "Morning Prayer",
+      "author": "Traditional",
+      "category": "prayer",
+      "meter": "7.6.7.6.D",
+      "verses": [
+        {
+          "number": 1,
+          "text": [
+            "Baba wa anga tunaomba",
+            "Utubariki leo",
+            "Tukiongoze njia yako",
+            "Katika mchana huu",
+            "Utupe nguvu za kufanya",
+            "Mapenzi yako tu"
+          ]
+        },
+        {
+          "number": 2,
+          "text": [
+            "Utuepushe na mabaya",
+            "Utuongeze imani",
+            "Tukienda kazini kwetu",
+            "Ukawa pamoja nasi",
+            "Utupe amani ya moyoni",
+            "Na upendo wa dhati"
+          ]
+        }
+      ],
+      "tags": [
+        "prayer",
+        "morning",
+        "guidance",
+        "blessing"
+      ],
+      "scripture_references": [
+        "Zaburi 5:3",
+        "Mareko 1:35"
+      ],
+      "created_date": "2024-01-01",
+      "modified_date": "2024-01-01"
+    }
+  },
+  "schema": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Nyimbo Zetu Hymn Schema",
+    "description": "Schema for Swahili hymn data structure with verses and chorus",
+    "type": "object",
+    "required": [
+      "id",
+      "title",
+      "verses"
+    ],
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Unique identifier for the hymn",
+        "minimum": 1
+      },
+      "title": {
+        "type": "string",
+        "description": "Title of the hymn in Swahili",
+        "minLength": 1
+      },
+      "subtitle": {
+        "type": "string",
+        "description": "Optional subtitle or alternative title"
+      },
+      "author": {
+        "type": "string",
+        "description": "Author/composer of the hymn"
+      },
+      "category": {
+        "type": "string",
+        "description": "Category or theme of the hymn",
+        "enum": [
+          "worship",
+          "praise",
+          "prayer",
+          "thanksgiving",
+          "christmas",
+          "easter",
+          "funeral",
+          "wedding",
+          "youth",
+          "children",
+          "general"
+        ]
+      },
+      "meter": {
+        "type": "string",
+        "description": "Musical meter of the hymn (e.g., '8.7.8.7', 'C.M.')"
+      },
+      "key": {
+        "type": "string",
+        "description": "Musical key signature"
+      },
+      "tempo": {
+        "type": "string",
+        "description": "Suggested tempo marking"
+      },
+      "verses": {
+        "type": "array",
+        "description": "Array of verse objects",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "number",
+            "text"
+          ],
+          "properties": {
+            "number": {
+              "type": "integer",
+              "description": "Verse number",
+              "minimum": 1
+            },
+            "text": {
+              "type": "array",
+              "description": "Lines of the verse",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      },
+      "chorus": {
+        "type": "object",
+        "description": "Optional chorus section",
+        "properties": {
+          "text": {
+            "type": "array",
+            "description": "Lines of the chorus",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "position": {
+            "type": "string",
+            "description": "When to sing the chorus",
+            "enum": [
+              "after_each_verse",
+              "after_verse_1",
+              "after_verse_2",
+              "after_verse_3",
+              "at_end",
+              "custom"
+            ],
+            "default": "after_each_verse"
+          }
+        }
+      },
+      "bridge": {
+        "type": "object",
+        "description": "Optional bridge section",
+        "properties": {
+          "text": {
+            "type": "array",
+            "description": "Lines of the bridge",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "position": {
+            "type": "string",
+            "description": "When to sing the bridge"
+          }
+        }
+      },
+      "tags": {
+        "type": "array",
+        "description": "Tags for searching and categorization",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "scripture_references": {
+        "type": "array",
+        "description": "Related Bible verses",
+        "items": {
+          "type": "string",
+          "pattern": "^[1-3]?[A-Za-z]+\\s+\\d+:\\d+(-\\d+)?$"
+        }
+      },
+      "created_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date when hymn was added to collection"
+      },
+      "modified_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date when hymn was last modified"
+      }
+    }
+  }
+}

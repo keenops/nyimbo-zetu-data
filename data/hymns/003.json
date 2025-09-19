@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "title": "Maombi ya Asubuhi",
+  "subtitle": "Morning Prayer",
+  "author": "Traditional",
+  "category": "prayer",
+  "meter": "7.6.7.6.D",
+  "verses": [
+    {
+      "number": 1,
+      "text": [
+        "Baba wa anga tunaomba",
+        "Utubariki leo",
+        "Tukiongoze njia yako",
+        "Katika mchana huu",
+        "Utupe nguvu za kufanya",
+        "Mapenzi yako tu"
+      ]
+    },
+    {
+      "number": 2,
+      "text": [
+        "Utuepushe na mabaya",
+        "Utuongeze imani",
+        "Tukienda kazini kwetu",
+        "Ukawa pamoja nasi",
+        "Utupe amani ya moyoni",
+        "Na upendo wa dhati"
+      ]
+    }
+  ],
+  "tags": ["prayer", "morning", "guidance", "blessing"],
+  "scripture_references": ["Zaburi 5:3", "Mareko 1:35"],
+  "created_date": "2024-01-01",
+  "modified_date": "2024-01-01"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "title": "Mungu Ni Mwema",
+  "subtitle": "God is Good",
+  "author": "Traditional",
+  "category": "praise",
+  "meter": "8.7.8.7",
+  "verses": [
+    {
+      "number": 1,
+      "text": [
+        "Mungu ni mwema, mwema milele",
+        "Upendo wake hauna mwisho",
+        "Atujalio kwa huruma yake",
+        "Tuimbe sifa zake daima"
+      ]
+    },
+    {
+      "number": 2,
+      "text": [
+        "Katika shida na katika furaha",
+        "Mungu yu pamoja nasi",
+        "Hatuachi wala kutuacha",
+        "Tuimbe sifa zake daima"
+      ]
+    },
+    {
+      "number": 3,
+      "text": [
+        "Mfalme wa wafalme Yeye",
+        "Bwana wa mabwana Yeye",
+        "Tunamwimbia kwa moyo wote",
+        "Tuimbe sifa zake daima"
+      ]
+    }
+  ],
+  "chorus": {
+    "text": [
+      "Alleluja, Alleluja",
+      "Mungu ni mwema milele",
+      "Alleluja, Alleluja",
+      "Tuimbe sifa zake"
+    ],
+    "position": "after_each_verse"
+  },
+  "tags": ["praise", "worship", "goodness", "traditional"],
+  "scripture_references": ["Zaburi 100:5", "1 Wakorintho 10:31"],
+  "created_date": "2024-01-01",
+  "modified_date": "2024-01-01"
+}

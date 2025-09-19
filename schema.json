@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Nyimbo Zetu Hymn Schema",
+  "description": "Schema for Swahili hymn data structure with verses and chorus",
+  "type": "object",
+  "required": ["id", "title", "verses"],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "description": "Unique identifier for the hymn",
+      "minimum": 1
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the hymn in Swahili",
+      "minLength": 1
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "Optional subtitle or alternative title"
+    },
+    "author": {
+      "type": "string",
+      "description": "Author/composer of the hymn"
+    },
+    "category": {
+      "type": "string",
+      "description": "Category or theme of the hymn",
+      "enum": ["worship", "praise", "prayer", "thanksgiving", "christmas", "easter", "funeral", "wedding", "youth", "children", "general"]
+    },
+    "meter": {
+      "type": "string",
+      "description": "Musical meter of the hymn (e.g., '8.7.8.7', 'C.M.')"
+    },
+    "key": {
+      "type": "string",
+      "description": "Musical key signature"
+    },
+    "tempo": {
+      "type": "string",
+      "description": "Suggested tempo marking"
+    },
+    "verses": {
+      "type": "array",
+      "description": "Array of verse objects",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["number", "text"],
+        "properties": {
+          "number": {
+            "type": "integer",
+            "description": "Verse number",
+            "minimum": 1
+          },
+          "text": {
+            "type": "array",
+            "description": "Lines of the verse",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    "chorus": {
+      "type": "object",
+      "description": "Optional chorus section",
+      "properties": {
+        "text": {
+          "type": "array",
+          "description": "Lines of the chorus",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "position": {
+          "type": "string",
+          "description": "When to sing the chorus",
+          "enum": ["after_each_verse", "after_verse_1", "after_verse_2", "after_verse_3", "at_end", "custom"],
+          "default": "after_each_verse"
+        }
+      }
+    },
+    "bridge": {
+      "type": "object",
+      "description": "Optional bridge section",
+      "properties": {
+        "text": {
+          "type": "array",
+          "description": "Lines of the bridge",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "position": {
+          "type": "string",
+          "description": "When to sing the bridge"
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags for searching and categorization",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "scripture_references": {
+      "type": "array",
+      "description": "Related Bible verses",
+      "items": {
+        "type": "string",
+        "pattern": "^[1-3]?[A-Za-z]+\\s+\\d+:\\d+(-\\d+)?$"
+      }
+    },
+    "created_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when hymn was added to collection"
+    },
+    "modified_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when hymn was last modified"
+    }
+  }
+}

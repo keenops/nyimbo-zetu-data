@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "title": "Yesu Ni Mfalme",
+  "subtitle": "Jesus is King",
+  "author": "Traditional",
+  "category": "worship",
+  "meter": "8.8.8.8",
+  "verses": [
+    {
+      "number": 1,
+      "text": [
+        "Yesu ni Mfalme, Mfalme wa amani",
+        "Anatukarimu kwa neema yake",
+        "Tunamwimbia kwa furaha kubwa",
+        "Yesu ni Mfalme wa wafalme wote"
+      ]
+    },
+    {
+      "number": 2,
+      "text": [
+        "Aliyezaliwa katika maziba",
+        "Aliokufa msalabani kwa ajili yetu",
+        "Alifufuka siku ya tatu",
+        "Yesu ni Mfalme wa wafalme wote"
+      ]
+    },
+    {
+      "number": 3,
+      "text": [
+        "Atatawala milele na milele",
+        "Utukufu na heshima ni vyake",
+        "Kila goti litapiga magoti",
+        "Yesu ni Mfalme wa wafalme wote"
+      ]
+    }
+  ],
+  "chorus": {
+    "text": [
+      "Hosana, Hosana",
+      "Kwa Mfalme wa Israeli",
+      "Hosana, Hosana",
+      "Yesu ni Mfalme wetu"
+    ],
+    "position": "after_each_verse"
+  },
+  "tags": ["worship", "jesus", "kingship", "salvation"],
+  "scripture_references": ["Ufunuo 19:16", "Mathayo 21:9"],
+  "created_date": "2024-01-01",
+  "modified_date": "2024-01-01"
+}

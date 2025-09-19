@@ -1,0 +1,34 @@
+{
+  "name": "nyimbo-zetu-data",
+  "version": "1.0.0",
+  "description": "SON data source for the NYIMBO ZETU Flutter app — Swahili hymns with verses and chorus, served for offline use.",
+  "main": "utils.js",
+  "scripts": {
+    "list": "node utils.js list",
+    "validate": "node utils.js validate",
+    "bundle": "node utils.js bundle > dist/offline_bundle.json",
+    "build": "mkdir -p dist && npm run bundle",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "hymns",
+    "swahili",
+    "christian",
+    "flutter",
+    "offline",
+    "worship",
+    "songs"
+  ],
+  "author": "Nyimbo Zetu Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keenops/nyimbo-zetu-data.git"
+  },
+  "files": [
+    "data/",
+    "schema.json",
+    "utils.js",
+    "dist/"
+  ]
+}

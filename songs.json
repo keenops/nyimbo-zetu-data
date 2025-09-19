@@ -1,0 +1,636 @@
+[
+  {
+    "id": 1,
+    "title": "Zaeni Matunda Mema",
+    "verses": [
+      "Zaeni matunda mema, zaeni matunda yale, zaeni yenye baraka, zaeni ya heri\nBwana akiyapokea, yatabarikiwa vyema, zaeni matunda mema, zaeni ya heri",
+      "Safisha mwenendo wako, safisha matendo yako, safisha na Bwana Yesu, safisha yote",
+      "Fanyeni kazi kindugu, fanyeni kazi kwa bidii, fanyeni na Bwana Yesu fanyeni na yote",
+      "Tolea matendo yako pamoja na moyo wako, naye Bwana Mungu wako atakubariki",
+      "Baraka za Mungu Baba, baraka za Mungu mwana, Na za Roho Mtakatifu ziwe nanyi nyote"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mungu Ni Pendo",
+    "verses": [
+      "Mungu ni pendo, apenda watu\nMungu ni pendo anipenda",
+      "Nilipotea katika dhambi\nNikawa mtumwa wa shetani\nAkafa Yesu kanikomboa\nYeye kanipa kuwa huru",
+      "Sababu hii namtumikia\nNamsifu yeye siku zote"
+    ],
+    "chorus": "Sikilizeni furaha yangu\nMungu ni pendo anipenda"
+  },
+  {
+    "id": 3,
+    "title": "Mwamba Wenye Imara",
+    "verses": [
+      "Mwamba wenye imara, kwako nitajificha!\nMaji hayo na damu, yaliyotoka humu,\nHunisafisha dhambi, hunifanya mshindi.",
+      "Kwa kazi zote pia, sitimizi sheria\nNijapofanya bidii, nikilia na kudhii,\nHayaishi makosa, ndiwe wa kuokoa.",
+      "Sina cha mkononi, naja msalabani\nNili tupu nivike, ni mnyonge nishike,\nNili mchafu naja, nioshe nisijafa.",
+      "Nikungojapo chini, nakwenda kaburini\nNipaapo mbinguni, na kukwona enzini,\nRoho yangu na iwe, rahani mwako wewe."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Twende Kwa Yesu",
+    "verses": [
+      "Twende kwa Yesu mimi nawe,\nNjia atwonya tuijue\nImo chuoni na mwenyewe\nHapa asema, njoo!",
+      "\"Wana na waje\" atwambia\nFurahini mkisikia\nNdiye mfalme wetu pia\nNa tumtii, njoo!",
+      "Wangojeani? Leo yupo:\nSikiza sana asemapo,\nHuruma zake zikwitapo,\nEwe kijana, njoo!"
+    ],
+    "chorus": "Na furaha tutaiona,\nMioyo ikitakata sana,\nKwako mwokozi kuonana,\nNa milele kukaa."
+  },
+  {
+    "id": 5,
+    "title": "Bwana U Sehemu Yangu",
+    "verses": [
+      "Bwana u sehemu yangu\nRafiki yangu, wewe\nKatika safari yangu\nTatembea na wewe.",
+      "Mali hapa sikutaka\nIli niheshimiwe\nNa yanikute mashaka\nSawasawa na wewe.",
+      "Niongoze safarini\nMbele unichukue\nMlangoni pa mbinguni\nNiingie na wewe."
+    ],
+    "chorus": "Pamoja na wewe\nPamoja na wewe\nKatika safari yangu\nTatembea na wewe."
+  },
+  {
+    "id": 6,
+    "title": "Pana Jito Lina Maji Mazuri",
+    "verses": [
+      "Pana jito lina maji mazuri, yaenda ulimwenguni.\nLameta meta nalo linang'aa, walijua jito hilo?",
+      "Wanywayo maji haya wafurahi, waimba kwa shangwe kubwa\nMakosa na shida yanaondoshwa, wote waoshwa na BWANA.",
+      "Jito hili latoa maji mengi, matamu yapendezayo.\nYaponya wagonjwa yatia nguvu, uchafu watakasika.",
+      "Maji ya jito hilo ni uzima, unaotoka kwa YESU.\nDamu yake yenye kiasi kikuu, imemwagwa tusafike."
+    ],
+    "chorus": "Ninakuita nawe njoo\nUtafute jito hilo\nMaji yake yapooza moyo.\nNawe yateke unywe."
+  },
+  {
+    "id": 7,
+    "title": "Yesu Ni Rafiki Yetu",
+    "verses": [
+      "Yesu ni rafiki yetu, akaaye mbinguni.\nHutuombea kwa Baba, na kutupatanisha\nLakini twajikosesha, twajitwika mabaya\nTusipomtafuta yeye, na kuomba kwa kweli.",
+      "Ukijaribiwa sana, ukiona mashaka\nUsihangaike sana, usikome kumuomba\nYeye ni mwema kabisa, wa kutuhurumia;\nAtujua: tu wanyonge; husikia kuomba.",
+      "Ukipatwa na majonzi, yakulemee sana,\nMoyo ukisikitika, Yesu akusikia.\nWatu wakikusimanga, urushwe na dunia,\nYesu akukumbatia; husikia kuomba!",
+      "Urafiki haukomi, kwao wampendezao.\nKwa hiyo na tujikaze, kumpenda Bwana Yesu.\nBwana Yesu ndiye mfalme, awashindaye wote;\nAtawavika taji."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Nuru Ya Rohoni",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 9,
+    "title": "Mteteeni Yesu",
+    "verses": [
+      "Mteteeni Yesu,\nMlio Askari;\nInueni Beramu,\nMkae Tayari;\nKwenda Naye Vitani\nSisi Hatuchoki\nHata Washindwe Pia\nYeye Amiliki.",
+      "Mteteeni Yesu,\nVita Ni Vikali;\nLeo Siku Ya Bwana,\nAtashinda Kweli;\nWaume Twende Naye,\nAdui Ni Wengi,\nLakini Kwake Bwana\nTuna Nguvu Nyingi.",
+      "Mteteeni Yesu,\nWenye Ushujaa\nNguvu Zenu Za Mwili\nHazitatufaa;\nSilaha Ya Injili\nVaeni Daima;\nKesheni Mkiomba;\nSirudini Nyuma.",
+      "Mteteeni Yesu,\nVita Ni Vikali,\nWengi Wamdharau,\nHawamkubali;\nIla Atamiliki\nTusitie Shaka;\nKuwa Naye Vitani\nTwashinda Hakika"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Niongoze",
+    "verses": [
+      "Niongoze, Bwana Mungu,\nNi msafiri chini;\nNi mnyonge, nguvu sina:\nNishike mkononi;\nU mkate wa Mbinguni,\nNilishe siku zote.",
+      "Kijito cha maji mema,\nKitokacho mwambani,\nNguzo yako, moto, wingu,\nYaongoza jangwani;\nNiokoe mwenye nguvu;\nNguvu zangu na ngao.",
+      "Nikikaribia kufa,\nSichi neno lolote,\nWewe kifo umeshinda\nZinawe nguvu zote,\nTutaimba sifa zako,\nKwako juu milele."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Bwana Mungu Nashangaa",
+    "verses": [
+      "Bwana Mungu nashangaa kabisa,\nNikifikiri jinsi ulivyo,\nNyota, ngurumo, vitu vyote pia,\nViumbavyo kwa uwezo wako.",
+      "Nikitembea pote duniani,\nNdege huimba nawasikia,\nMilima hupendeza macho sana,\nUpepo nao nafurahia.",
+      "Nikikumbuka vile wewe Mungu,\nUlivyompeleka mwanao,\nAfe azichukue dhambi zetu,\nKuyatambua ni vigumu mno.",
+      "Yesu Mwokozi atakaporudi,\nKunichukua kwenda mbinguni,\nNitaimba sifa zako milele,\nWote wajue jinsi ulivyo."
+    ],
+    "chorus": "Roho yangu na ikuimbie,\nJinsi wewe ulivyo mkuu,\nRoho yangu na ikuimbie,\nJinsi wewe ulivyo mkuu."
+  },
+  {
+    "id": 12,
+    "title": "Yesu Aliniita",
+    "verses": [
+      "Yesu aliniita, 'Njoo Raha iko kwangu,\nKichwa chako ukilaze Kifuani mwangu'\nNilikwenda kwake mara, sana nilichoka;\nNikapata kwake raha Na furaha tena.",
+      "Yesu aliniita, 'Njoo, Kwangu kuna maji;\nMaji ya Uzima, bure, Unywe uwe hai.'\nNilikwenda kwake mara na maji nikanywa;\nNaishi kwake na kiu Kamwe sina tena.",
+      "Yesu aliniita, 'Njoo, Dunia i giza,\nUkinitazama, nuru Takung’arizia.’\nNili kwenda kwake mara, Yeye jua langu,\nNi kila wakati mwanga Safarini Mwangu."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Bwana Utusaidie",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 14,
+    "title": "Nitwae Hivi Nilivyo",
+    "verses": [
+      "Nitwae hivi nilivyo,\nUmemwaga damu yako,\nNawe ulivyoniita,\nBwana Yesu, naja, naja.",
+      "Hivi nilivyo si langu,\nKujiosha roho yangu,\nNisamehe dhambi zangu,\nBwana Yesu, naja, naja.",
+      "Hivi nilivyo sioni,\nKamwe furaha moyoni,\nDaima ni mashakani,\nBwana Yesu, naja, naja.",
+      "Hivi nilivyo kipofu,\nMaskini na mpungufu,\nWewe u mtimilifu,\nBwana Yesu, naja, naja.",
+      "Nawe hivi utanitwaa;\nNisithubutu kukawa,\nNa wewe hutanikataa,\nBwana Yesu, naja, naja.",
+      "Hivi nilivyo mapenzi,\nYamenipa njia wazi,\nHali na mali sisazi,\nBwana Yesu, naja, naja."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Tumaini Letu Ni Kwa Bwana",
+    "verses": [
+      "Tumaini letu ni kwa Bwana -\nKwa maana ana uwezo wa milele",
+      "Tutamsifu Bwana siku zote -\nKwa maana ana uwezo wa milele",
+      "Yeye ndiye mwanzo wa uzima -",
+      "Vitu vyote vimeumbwa naye -",
+      "Yeye ndiye kiongozi wetu -",
+      "Yeye ndiye aliyetuumba -",
+      "Tumsifu tumwabudu daima -",
+      "Ni yeye anayetuongoza -",
+      "Sifa na uwezo viwe kwake -",
+      "Nguvu na ulinzi ni kwake –",
+      "Uzima na wokovu ni kwake –",
+      "Atukuzwe katika utatu –",
+      "Kama mwanzo sasa na daima -"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Mikononi Mwake",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 17,
+    "title": "Siwezi Kusimama",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 18,
+    "title": "Nitahubiri",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 19,
+    "title": "Nikupe Nini Mungu Wangu",
+    "verses": [
+      "Kile nitakachoshika mbona bado ni kidogo.\nMema unayotenda kwangu mimi naogopa.\nNinakuomba Mwokozi, nifanyie msamaha na unipokee.\nMema unayoyatenda, nitakupa nini mimi nikurudishie.",
+      "Nakutolea mkate toka mmea wa ngano.\nNakutolea divai ni tunda la mzabibu.\nNinakuomba Mwokozi, nifanyie msamaha na unipokee.\nMema unayoyatenda nitafanya nini mimi nikurudishie.",
+      "Mchana hata usiku wewe wanisimamia.\nNa nikiwa safarini waniepusha ajali.\nNinakuomba Mwokozi, nifanyie msamaha na unipokee.\nMema unayoyatenda nitafanya nini mimi nikurudishie.",
+      "Kama njia sioni Bwana unaniongoza.\nNa hata nikipotea kwako unanirudisha.\nNinakuomba Mwokozi nifanyie msamaha na unipokee.\nMema unayoyatenda nitafanya nini mimi nikurudishie.",
+      "Nikiwa na matatizo Bwana hunisaidia.\nNikiwa kwenye majonzi Bwana unafariji.\nNitatoa nini mimi kitakachokuwa sawa na fadhili zako.\nNitaimba nini mimi niyataje mema yote utendayo kwangu."
+    ],
+    "chorus": "Nikupe nini Mungu wangu.\nNikupe nini we Mwokozi.\nNikupe nini Bwana wangu\ncha kukupendeza x2"
+  },
+  {
+    "id": 20,
+    "title": "Uje Roho Mtakatifu",
+    "verses": [
+      "Uje Roho Mtakatifu, tuangaze toka mbingu\nRoho zetu kwa mwangao",
+      "Uje Baba wa maskini, uje mtoa wa vipaji\nUje mwanga wa mioyo",
+      "Ee Mfariji mwema sana, ee rafiki mwanana\nEwe raha mustarehe",
+      "Kwenye kazi u pumziko, kwenye joto, burudiko\nU mfutaji wa machozi",
+      "Ewe mwanga wenye heri, uwajaze waamini\nNeema yako mioyoni",
+      "Bila nguvu yako wewe, mwanadamu hana kitu\nKwake yote yana kosa",
+      "Osha machafuko yetu, panyeshee pakavu petu\nNa kuponya majeraha",
+      "Ulegeze ukaidi, washa moto wa uadili\nNyoosha upotevu wote",
+      "Wape waumini wako, wenye tumaini kwako\nPaji zako zote saba",
+      "Wape tuzo ya fadhila, wape mwisho bila hila\nWape heri ya milele",
+      "Amina aleluya, amina aleluya,\nAmina aleluya"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Nmpeni Mungu Mali Yake",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 22,
+    "title": "Mimi Ni Mzabibu",
+    "verses": [
+      "Mimi ni mza-bi-bu x2\nNanyi ni ma-ta-wi ya-ngu",
+      "Mi-mi ni mza-bi-bu, mi-mi ni mza-bi-bu\nNa-nyi ni ma-ta-wi: na-mi kwe-li nim za-bi-bu:",
+      "Kaeni ndani yangu, nami ndani yenu\nKwani mu matawi nami kweli ni mzabibu :",
+      "Nje yangu mimi hamuwezi kuzaa\nKwani mu matawi nami kweli ni mzabibu :",
+      "Bila nguvu yangu, hamwezi lolote\nKwani mu-matawi: Nami kweli ni mzabibu:"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Kwa Kalvari",
+    "verses": [
+      "Muda mwingi nilipotea,\nSikufahamu msalaba,\nWala aliyenifilia,\nKwa kalvari.\nRehema bure na neema,\nSamaha nalo nilipewa,\nNdipo aliponifungua,\nKwa kalvari",
+      "Kwa neno lake Bwana Mungu,\nNilijiona mimi mwovu,\nNikageuka na kutubu,\nKwa kalvari.",
+      "Yote kwa Yesu namtolea,\nNdiye Mfalme wa pekee sasa,\nKwa furaha nitamwimbia,\nKwa kalvari.",
+      "Jinsi pendo lilivyo kuu,\nNeema ilishushwa toka juu,\nAlitufanyia wokovu,\nKwa kalvari."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Liko La Moja Wazi",
+    "verses": [
+      "Liko langu moja wazi,\nNi lango la mbinguni,\nNa wote waingiao,\nWatapata nafasi.\nLango ndiye Yesu Bwana\nWote waingie kwake,\nLango! Lango!\nLa Mbinguni ni wazi.",
+      "Yesu ndiye lango hili,\nHata sasa ni wazi,\nKwa wakubwa na wadogo,\nTajiri na maskini.",
+      "Hii ni lango la raha,\nNi lango la rehema,\nKila mtu apitaye\nHana majonzi tena.",
+      "Tukipita lango hili,\nTutatua mizigo\nTuliochukua kwanza,\nTutavikwa uzima.",
+      "Hima ndugu tuingie,\nLango halijafungwa,\nLikifungwa mara moaj\nHalitafunguliwa."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Huo Ndiyo Ni Mwanzo",
+    "verses": [
+      "Huo ndio ni mwazo wa ufalme wa Mungu",
+      "Umpende Mungu kwa moyo wote/ Maana ndiye Baba yako.",
+      "Umtendee mwenzako/ upendavyo kutendewa naye.",
+      "Ujikane kila siku/ uchukue vema msalaba wako.",
+      "Heri ukiwa maskini moyoni /maana ufalme wa mbingu ni wako.",
+      "Heri ukiwa mpole/ maana utapata nchi",
+      "Heri ukiona huzuni/ maana utatulizwa",
+      "Heri ukiona njaa na kiu ya kuapata utakatifu/ maana utashibishwa",
+      "Heri ukiwa na",
+      "Heri ukiwa na moyo safi/ maana utamwona Mungu",
+      "Heri ukipenda amani/maana utaitwa mwana wa Mungu."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Ninataka Kuingia Mjini",
+    "verses": [
+      "Ninataka kuingia, mjini mwa Mungu\nNitashinda nitakaza mwendo nifike\nNikishikwa na shida, nikichoka njiani\nYesu unaniambia uningojee",
+      "Naitwa na Yesu Kristu enzini mwake\nNakimbia kukawia hakuna faida\nWote wachelewao hawatapata taji\nMimi sitaki kingine ila uzima",
+      "Elekeza macho yangu mlangoni pako\nNiongoze nipe nguvu nikilemewa\nNinapojaribiwa, ninaposingiziwa\nYesu unisaidie nisikuache",
+      "Mkono wako unishike nisianguke\nNajiona kuwa mnyonge nguvu i kwako\nNeno lako ee Yesu linanipa uzima\nNikifika nitaimba umeniponya"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Wamwendea Yesu Kwa Kusafishwa",
+    "verses": [
+      "Wamwendea Yesu kwa kusafiwa,\nNa kuoshwa kwa damu ya kondoo?\nJe, neema yake umemwagiwa?\nUmeoshwa kwa damu ya kondoo?",
+      "Wamwandama daima Mkombozi,\nNa kuoshwa kwa damu ya kondoo?\nYako kwa Msulubiwa makazi,\nUmeoshwa kwa damu ya kondoo?",
+      "Atakapokuja Bwana-arusi,\nUwe safi kwa damu ya kondoo!\nYafae kwenda mbinguni mavazi,\nYafuliwe kwa damu ya kondoo.",
+      "Yatupwe yalipo na takataka,\nNa uoshwe kwa damu ya kondoo,\nHuoni kijito chatiririka,\nNa uoshwe kwa damu ya kondoo?"
+    ],
+    "chorus": "Kuoshwa, kwa damu,\nItutakasayo ya kondoo,\nZiwe safi nguo nyeupe mno,\nUmeoshwa kwa damu ya kondoo?"
+  },
+  {
+    "id": 28,
+    "title": "Mahali Ni Pazuri",
+    "verses": [
+      "Mahali ni pazuri,\nndugu wanapokaa,\nwakipatana vema,\nna wakipendana.",
+      "Kama umande mzuri,\nunyweshavyo shamba,\nvivyo na Mungu wetu,\nhubariki ndugu.",
+      "Upendano hujenga,\nboma zuri kwao,\nwakae na amani,\nwaliookoka.",
+      "Na ulimwengu wote,\nwatiwa nuruni,\nhalafu kundi moja,\nna mchunga mmoja tu."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Ni Damu Idondokayo",
+    "verses": [
+      "Ilimpatia wokovu mwizi kule mtini;\nnami nisiyemtafuta, inanisafisha.\nBwana wangu ...",
+      "Shaushi aliyemlinda Yesu akiteswa,\nnaye akamshuhudia: ni Mwana wa Mungu!\nBwana wangu ...",
+      "Nipe ulimi mpya Yesu wa kukuimbia,\nBabayo tutamtukuza Jina lake pekee.\nBwana wangu ..."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Ukiwa Na Ubaya",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 31,
+    "title": "Ni Wako Wewe Nimekujua",
+    "verses": [
+      "Ni wako wewe, nimekujua,\nNa umeniambia;\nLakini Bwana, nataka kwako nizidi kusongea.",
+      "Niweke sasa nikatumike\nKwa nguvu za neema;\nUyapendayo nami nipende,\nNizidi kukwandama.",
+      "Nina furaha tele kila saa\nNizungumzavyo kwako,\nNikuombapo nami napata kujua nia yako.",
+      "Mapenzi yako hayapimiki,\nIla ng'ambo ya liko.\nAnasa pia sitazijua,\nBila kufika kwako."
+    ],
+    "chorus": "Bwana vuta, vuta, nije nisongee,\nSana, kwako mtini.\nBwana vuta, vuta, nije nisongee,\nKwa damu ya thamani."
+  },
+  {
+    "id": 32,
+    "title": "Ha Kutumaini Sina",
+    "verses": [
+      "Chakutumaini sina\nIla damu yake Bwana,\nSina wema wa kutosha\nDhambi zangu kuziosha;\nKwake Yesu nasimma,\nNdiye mwamba: ni salama\nNdiye mwamba: ni salama\nNdiye mwamba: ni salama.",
+      "Njia yangu iwe ndefu\nYeye hunipa wokovu;\nMawimbi yakinipiga\nNguvu zake ndiyo nanga.",
+      "Damu yake na sadaka\nNategemea daima,\nYote chini yakiisha\nMwokozi atanitosha.",
+      "Nikiitwa hukumuni,\nRohoni nina amani\nNikivikwa haki yake\nSina hofu mbele zake."
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Yesu Unipendaye",
+    "verses": [
+      "Yesu unipendaye\nKwako nakimbilia,\nNi wewe utoshaye,\nMwovu akinijia;\nYafiche ubavuni,\nMwako maisha yangu;\nNifiikishe mbinguni\nWokoe moyo wangu.",
+      "Ngome nyingine sina;\nNategemea kwako.\nUsinitupe Bwana ,\nNipe neema yako,\nNinakuamania\nMwenye kuniwezesha;\nShari wanikingia,\nVitani wanitosha.",
+      "Nakutaka Mpaji\nVyote napata kwako;\nNiwapo muhitaji,\nUtanijazi vyako;\nNao waangukao\nWanyonge wape nguvu;\nPoza wauguao,\nUongoze vipofu.",
+      "Bwana umeniosha\nMoyo kwa damu yako;\nNeema ya kutosha\nYapatikana kwako;\nKwako Bwana naona\nKisima cha uzima;\nMwangu moyoni Bwana,\nBubujika daima."
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Bwana Uliyewaita",
+    "verses": [
+      "Bwana uliyewaita\nWatakatifu wako,\nWawe mitume, wachunga,\nWalishe kundi lako;\nwanyonge na wenye hofu\nWakawa mashujaa,\nNa wapole wa kunena\nWasiwe kunyamaa.",
+      "Hata leo wawataka\nWatakatifu wako,\nNawe wauliza tena\nNi nani aliyeko\nAtakaye nimtume\nAfundishe vijana?\n'Ni tayari, Bwana wangu,\nNitume mimi Bwana.'",
+      "Nitume na mimi, Bwana\nKama ulivyotumwa,\nHabari ya msamaha\nNa dhambi kutubiwa,\nNiwahubiri wakosa,\nNa waliopotea,\nWokovu u wake Bwana,\nAliyewafilia.",
+      "Astahiliye hapana\nKutamka habari,\nLakini wewe waweza\nKutufanya tayari.\nNeno lako tulijue,\nTupe na roho yako,\nHayatakuwa ya bure,\nHaya maneno yako."
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Nchi Nzuri Yametameta",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 36,
+    "title": "Nitakushukuru Bwana Kila Wakati",
+    "verses": [
+      "Nitakushukuru Bwana kila wakati *2\nUmenitendea mambo makuu, siku zote waniongoza\nNitakushukuru Bwana kila wakati",
+      "Kwa kuwa Bwana ni mwema,\nNa mwingi wa rehema, kwao wamchao",
+      "Maana kwa wema wako,\nTumepokea chakula, kutoka Mbinguni",
+      "Katika mapito yangu,\nKatika tabu zangu, umeniongoza",
+      "Nitakushukuru Bwana,\nNitakuimbia Bwana, daima milele"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Yesu Mkononi Mwako",
+    "verses": [
+      "Yesu mkononi mwako\nnitalindwa vema.\nRaha bora Napata\nkwa upendo wako.\nNawe kwa sauti tamu\nwaniita mimi:\nWacha tu nguvu yako,\nkwangu ni raha kuu.\nYesu mkononi mwako\nnitalindwa vema,\nraha bora napata\nkwa upendo wako!",
+      "Yesu mkononi mwako\nsioni taabu.\nShetani nguvu zake\nhaziwezi kwako.\nShaka na woga kwako\nzinakosa nguvu,\nna majaribu yote\nnayashinda pia.\nYesu mkononi….",
+      "Umenifia Bwana,\nnakukimbilia.\nWanishika milele,\nnakutegemea.\nNakungojea hapa\nna giza liishe,\nmchana wapambazuka\nna kwako milele.\nYesu mkononi…."
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Yesu Ndiye Kiongozi Wangu",
+    "verses": [
+      "Yesu ndiye kiongozi wangu,\nkumfuata yeye ni furaha,\najuaye kuongoza vema,\nanilinda nisione shida,\nanaleta raha moyoni.",
+      "Bwana Yesu akiniongoza,\nNitapita pori na misitu,\nNitavuka mito na bahari\nKwa furaha, kwani nina\nNjia ya kufika mjini kwa Mungu.",
+      "Nikalala Yesu anilinda\nanitunza Yeye siku zote.\nHata nikifika njia panda,\nNikiona shaka, aonyesha\nnjia ya kufika kwake.",
+      "Siku zote namfuata Yeye,\nSitaona kiu wala njaa;\nanitunza kwa rehema\nnyingi:\nnitaweka mikononi mwake\nmoyo wangu, auokoe."
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Nataka Nimjue Yesu",
+    "verses": [
+      "Nataka nimjue Yesu,\nNa nizidi kumfahamu,\nNijue pendo lake, na\nWokovu wake kamili.",
+      "Nataka nione Yesu,\nNa nizidi kusikia,\nAnenapo kitabuni,\nKujidhihirisha kwangu.",
+      "Nataka nifahamu, na\nNizidi kupambanua\nMapenzi yake, nifanye\nYale yanayompendeza.",
+      "Nataka nikae naye,\nKwa mazungumzo zaidi,\nNizidi kuwaonyesha\nWengine wokovu wake."
+    ],
+    "chorus": "Zaidi, zaidi,\nNimfahamu Yesu,\nNijue pendo lake, na\nwokovu wake kamili."
+  },
+  {
+    "id": 40,
+    "title": "Upendo wa Mungu Wetu",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 41,
+    "title": "Nilikuwa Kondoo",
+    "verses": [
+      "Nilikuwa kondoo aliyepotea,\nSikupenda zizi kamwe, ila kutembea\nNilikuwa mwana asiyesikia,\nSikupenda baba yangu wala kutulia.",
+      "Na mchunga mwema alinitafuta,\nBaba kwa mapenzi ndiye aliyenivuta;\nKaribu ya kufa, kwa kiu na kwa njaa,\nWaliniona mnyonge, waliniokoa.",
+      "Yesu ni mchunga, mwenziwe hapana,\nAliosha taka zangu, dhambi nyingi sana;\nKwa vidonda vyangu alitia dawa.\nNdiye aliyenipata, na kwake nalindwa.",
+      "Nilikuwa kondoo aliyepotea\nSasa nampenda Baba, na mchunga pia;\nKwanza nilitanga na kukosa sana,\nHivi nyumbani mwa Baba sipotei tena."
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Pasipo Makosa",
+    "verses": [
+      "Pasipo makosa Mkombozi wetu,\nKatika baraza la wakosefu\nNa wote walia asulibiwe,\nAachwe Baraba na Yesu afe\nAachwe Baraba na Yesu afe",
+      "Ee Yesu washika msalaba wako,\nNa unakubali kufa juu yake\nEe Yesu useme sababu gani,\nYa nini mateso makali hayo?\nYa nini mateso makali hayo?",
+      "\"Ni pendo kwa Baba wa uwinguni,\nNi huruma yangu kwa wakosefu.\nEwe mkristu kumbuka mateso yangu,\nUache makosa, uache dhambi\nUache makosa, uache dhambi\""
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Ni Ujumbe Wa Bwana",
+    "verses": [
+      "Ni ujumbe wa Bwana, Aleluya!\nwa maisha ya daima,\nAmenena mwenyewe, Aleluya!\nUtaishi ukitazama.",
+      "Tazama, ishi sasa!\nKumtazama Yesu,\nAmenena mwenyewe, Aleluya!\nUtaishi ukitazama.",
+      "Ni ujumbe wa wema, Aleluya!\nNawe shika, rafiki yangu!\nNi habari ya raha Aleluya!\nMwenye kuinena ni Mungu.",
+      "Uzima wa daima,Aleluya !\nKwake Yesu utauona.\nukimtazama tu, Aleluya!\nWokovu u pweke kwa Bwana."
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Mbali Kule Nasikia",
+    "verses": [
+      "Mbali kule nasikia malaika wa mbinguni,\nWakiimba wengi pia wimbo huo juu angani:",
+      "Gloria in excelsis Deo,\nGloria in excelsis Deo.",
+      "Wachunga tuambieni sababu ya nyimbo hizo?\nMwenye kuimbiwa ni nani, juu ya nani sifa hizo?",
+      "Je hamjui jambo kuu la kuzaliwa Mwokozi?\nHabari ya wimbo huo ndiyo kumshukuru Mwenyezi.",
+      "Kweli, nasi twende hima, tufike kule aliko,\nTuone mtoto na mama, tuwasalimie huko."
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Nivute Kwako, Bwana Yesu",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 46,
+    "title": "Nitaondoka",
+    "verses": [
+      "Nitaondoka, nitaondoka nitakwenda kwa baba yangu x2",
+      "Nitamwambia baba, baba, ba-a-ba, nimekosa juu ya mbingu na mbele yako x2"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Ni Wako Mungu",
+    "verses": [
+      "Ni wako Mungu!\nNi furaha kwangu,\nNi raha kumjua mwokozi wangu.",
+      "Aleluya enzi ndako;\nAleluya,Amin.\nAleluya,enzi ndako;\nRejea Yesu.",
+      "Mwana wa Mungu\nNdiye fungu langu,\nNa moyo hufurahi kwa Yesu wangu.",
+      "Raha ya kweli\nIna jina hili,\nNa aliyeshika,ana Mbingu kweli.",
+      "Nimeingia\nMapendano haya,\nNimepata uzima na Mbingu pia.",
+      "Nilipo chini,\nNi mwako kazini\nHata nije kwako uliko Mbinguni."
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Sioshwi Dhambi Zangu",
+    "verses": [
+      "Sioshwi dhambi zangu,\nBila damu yake Yesu.\nHapendezewi Mungu,\nBila damu yake Yesu.",
+      "Hakuna kabisa\nDawa ya makosa\nYa kututakasa,\nIla damu yake Yesu.",
+      "La kunisafi sina\nIla damu yake Yesu.\nWala udhuru tena,\nIla damu yake Yesu.",
+      "Sipati pataniswa,\nBila damu yake Yesu.\nHukumu yanitisha,\nBila damu yake Yesu.",
+      "Sipati tumaini,\nBila damu yake Yesu.\nWema wala amani,\nBila damu yake Yesu.",
+      "Yashinda ulimwengu,\nHiyo damu yake Yesu.\nNa kutufikisha juu,\nHiyo damu yake Yesu.",
+      "Twaimba: Utukufu\nUna damu yake Yesu.\nMilele twaisifu,\nHiyo damu yake Yesu."
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Tuwe na Raha Moyoni",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 50,
+    "title": "Uliyesulibishwa",
+    "verses": [
+      "Uliyesulubishwa,\nMtakatifu Bwanangu,\nUwe ngao shidani,\nuniombee mimi.\nUliyesulubishwa,\nMtakatifu Bwanangu!",
+      "Wongofu sina hata,\nniondolee makosa.\nMwovu akinishtaki\nnasumbuka rohoni.\nWongofu sina hata,\nniondolee makosa.",
+      "Wewe tu nipokee,\nnakukumbilia wee.\nHata nifanye bidii,\nnikatoe machozi.\nWewe tu nipokee,\nnakukimbilia wewe",
+      "Uwe ngao shidani,\nNiombee na mimi!\nHapa nikiumizwa,\nSaa ya mwisho ikija:\nUwe ngao shidani,\nNiombee na mimi!"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Yesu Awakubali Wakosa",
+    "verses": [
+      "Yesu awakubali,\nWakosa, wahalifu,\nWambieni wa mbali\nHabari ya wokovu.",
+      "Tangazeni kwa bidii,\n“Akubali wakosa”\nLiwe neno dhahiri,\n“Akubalia wakosa!”",
+      "Awakubali Bwana\nNeno lake amini\nWatu kila aina\nWaje kwake tengoni.",
+      "Mimi ni safi moyo\nNa mbele ya sharia,\nAliye safi roho\nKwake ilitimia.",
+      "Akubali wakosa;\nNami anikubali;\nAlivyonitakasa\nMbinguni niwasili."
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Dhambi Ikikulemea",
+    "verses": [
+      "Dhambi ikikulemea,\nKwa Bwana rehema;\nHivi sasa tegemea\nNeno la salama.",
+      "Tegemea, tegemea,\nakwita sasa.\nNi Mwokozi, ni\nMwokozi; amini sasa.",
+      "Yesu amemwaga damu\nYa nyingi baraka;\nNawe sasa oga mumu\nZioshwamo taka.",
+      "Ni njia yeye hakika\nHwongoza rahani;\nUsikawe kumshika,\nUwe barakani.",
+      "Karibu nawe wingie\nMwetu safarini,\nTwende tukamwamkie,\nMilele Mbinguni."
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Tufurahi Ndugu",
+    "verses": [
+      "Tufurahi ndugu, kafufuka\nMungu twimbe aleluya\nMwokozi yu hai sasa\nAleluya!",
+      "Leo na mapema, Kafufuka mzima\nTwimbe Aleluya\nAlikufa kwanza, kafufuka sasa\nTwimbe Aleluya",
+      "Walifunga mlango, wakaburi lake\nTwimbe Aleluya\nWakashika zamu, macho kwa kaburi\nTwimbe Aleluya",
+      "Jiwe laanguka, mwangaza wamulika\nTwimbe Aleluya\nZamu yakimbia, mlango uko wazi\nTwimbe Aleluya",
+      "Mshinda wa mauti, sasa hazuiwi\nTwimbe Aleluya\nJuzi kazimia, leo kaamka\nTwimbe Aleluya",
+      "Yesu we sadaka, leo wafufuka\nTwimbe Aleluya\nJuzi uliteswa, leo ndwe mshinda\nTwimbe Aleluya"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Nasikia Kuitwa",
+    "verses": [
+      "Nasikia kwitwa\nNa sauti yako\nNikasafiwe kwa damu\nYa kwangikwa kwako.",
+      "Nimesogea Mtini pako,\nUnisafi kwa damu ya kwangikwa kwako.",
+      "Ni mnuonge kweli,\nUmenipa nguvu,\nUlivyonisafi taka,\nNi utimilivu.",
+      "Yesu hunijuvya;\nMapenzi, imani;\nTumai, amani, radhi,\nHapa na Mbinguni.",
+      "Huipa imara,\nKazi yake, ndani:\nHuongezeka neema,\nAshindwe Shetani.",
+      "Huishuhudia,\nMyoyo ya imani\nYa kuzipata ahadi,\nWakimuamini.",
+      "Napata wokovu,\nWema na neema;\nkwako Bwana nina nguvu\nNa haki daima."
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Mungu Awe Nanyi Daima",
+    "verses": [
+      "Mungu awe nanyi daima,\nHata twonane ya pili,\nAwachunge kwa fadhili,\nMungu awe nanyi daima.",
+      "Hata twonane huko juu,\nHata twonane kwake kwema;\nHata twonane huko juu,\nMungu awe nanyi daima.",
+      "Mungu awe nanyi daima;\nZiwafunike mbawaze,\nAwalishe, awakuze;\nMungu awe nanyi daima.",
+      "Mungu awe nanyi daima;\nKila wakati wa shani\nAwalinde hifadhini;\nMungu awe nanyi daima.",
+      "Mungu awe nanyi daima;\nAwabarikie sana,\nAwapasulie kina;\nMungu awe nanyi daima."
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Ndiyo Damu Ya Baraka",
+    "verses": [
+      "Ndiyo damu ya baraka ituoshayo wakosa,\nKwake Bwana twaokoka, nasi twamsifu sasa;\nNimestahili hukumu, siwezi kujitakasa;\nNioshe katika damu, takuwa safi kabisa.",
+      "Safi kabisa; safi kabisa!\nNioshe katika damu;\nTakuwa safi kabisa.",
+      "Yesu alivikwa miiba, na kuangikwa Mtini,\nNa maumivu si haba yaliyompata chini.\nNataka kijito hicho niende kuoga sasa;\nNdicho kinitakasacho, nami ni safi kabisa.",
+      "Safi kabisa; safi kabisa!\nNdicho kinitakasacho,\nNami ni safi kabisa.",
+      "Baba, kweli nimekosa, moyo wangu ni dhaifu;\nDhambi ni nyingi kabisa, nipate wapi wokovu?\nYesu kijitoni pako, naja naamini sasa;\nNioshe kwa damu yako, takuwa safi kabisa.",
+      "Safi kabisa; safi kabisa!\nNioshe kwa damu yako,\nNami ni safi kabisa."
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Kweli ni Huzuni",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 59,
+    "title": "Babangu Kule Mbinguni",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 60,
+    "title": "Nakuapia Yesu",
+    "verses": [
+      "Nakuapia Yesu kukutumikia,\nWewe u mfunzi wangu na rafiki mwema\nSitaogopa vita nikikufuata\nsiipotezi njia ukiniongoza",
+      "Dunia i karibu Bwana unilinde\nna majaribu mengi yako pande zote\nAdui siku zote ni ndani na nje\nEe Yesu univute Karibu na wewe",
+      "Nazisikia sauti zenye tamaa mbaya\nna mambo ya dunia yanivuta sana\nEee Bwana sema nami Furaha iwe kuu\nnitakusikiliza Wewe mlinzi wangu",
+      "Waagana na wote wakufuatao,\nKwamba uliko wewe nao watakua\nNami ninaagana kukutumikia\nYesu nisaidie kukuandamia",
+      "Hatua zako Bwana naziona wazi\nnizikanyage vema hapa duniani\nNishike hata mwisho Ee Yesu Mwokozi\nnichukue nikifa na kwako mbinguni"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Nimekombolewa Na Yesu",
+    "verses": [
+      "Nimekombolewa na Yesu\nAliyenirehemia;\nKwa bei ya mauti yake\nNimekuwa mtoto wake.",
+      "Kombolewa!\nNakombolewa na damu;\nKombolewa!\nMimi mwana wake kweli.",
+      "Kukombolewa nafurahi,\nKupita lugha kutamka;\nKulionyesha pendo lake,\nNimekuwa mtoto wake.",
+      "Nitamwona uzuri wake,\nMfalme wangu wa ajabu;\nNa sasa najifurahisha,\nKatika neema yake.",
+      "Najua taji imewekwa\nMbinguni tayari kwangu;\nMuda kitambo atakuja,\nIli alipo, niwepo"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Ninakulilia Katika Unyonge Wangu",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 63,
+    "title": "Mchunga Wangu",
+    "verses": [
+      "/Mchunga wangu, ameniandalia mema yote x2/",
+      "Bwana ndiye mwenye kuchunga uzima wangu/\nNa malisho yake kwangu ni raha kamili.",
+      "Malishoni mwake mabichi alinilaza/\nSitakosa kamwe wala sitapungukiwa",
+      "Penye maji yake mazuri na utulivu/\nNdipo kweli Mungu aliponiburudisha",
+      "Hatarini mchana usiku nyakati zote/\nSiogopi kamwe hila za mwenye maovu"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "RafikiYangu Bwana Yesu",
+    "verses": ["⚠️ To be added later"]
+  },
+  {
+    "id": 65,
+    "title": "Nilikuwa Nimelala",
+    "verses": [
+      "Nalikuwa nimelala moyo wangu umacho\nSikiliza Yesu wangu mpenzi wa moyo wangu",
+      "Siku zote nakungoja we mwanangu uje kwangu,\nusiogope kunijia nitakupokea tu",
+      "Nimemwaga damu yangu roho yako kuokoa,\ndamu hiyo ipotee we mwanangu rudi tu",
+      "Ni mapendo yangu kwako kuokoa roho yako\nwe mwanangu usiogope njoo utubu dhambi",
+      "Ni tayari kukupokea mpenzi wangu rudi kwangu\nfurahi pamoja nami milele na milele"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Mungu Wangu Mbona Umeniacha",
+    "verses": [
+      "Mungu wangu mbona umeniacha mimi katika taabu zote hizi\nMaisha yangu ni ya mashaka kwani sina raha nimekosa amani\nMatatizo mengi yananisonga (sana) nakuomba Bwana nisaidie\nMaadui zangu wananiwinda (kutwa) wanitega ili wanikamate.",
+      "Ninalala macho wazi mimi (kama ndege) kama ndege mkiwa juu ya paa.\nNimekuwa kama mhuni mimi (fanya hima) fanya hima Bwana kuniokoa.",
+      "Nimekuwa kama kichekesho kwa watu jamani mimi Bwana\nKila nipitapo hunisema na kunicheka\nWananizushia maneno ya uongo jamani mimi Bwana\nMimi nimekuwa ni jalala la kila baya.",
+      "Maadui zangu kutwa wanisimanga jamani mimi Bwana\nWananidhihaki wanisonya na kunitusi\nJina langu limekuwa gumzo lao jamani mimi Bwana\nSasa ndilo walitumialo kwa kulaania",
+      "Na majivu yamekuwa chakula changu jamani mimi Bwana\nNa machozi yangu yamekuwa kinywaji changu\nNa siku zangu zinapita kama moshi jamani mimi Bwana\nNakuomba usinichukue bado kijana"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Pasipo Makosa",
+    "verses": [
+      "Pasipo makosa Mkombozi wetu,\nKatika baraza la wakosefu\nNa wote walia asulibiwe,\nAachwe Baraba na Yesu afe\nAachwe Baraba na Yesu afe",
+      "Ee Yesu washika msalaba wako,\nNa unakubali kufa juu yake\nEe Yesu useme sababu gani,\nYa nini mateso makali hayo?\nYa nini mateso makali hayo?",
+      "\"Ni pendo kwa Baba wa uwinguni,\nNi huruma yangu kwa wakosefu.\nEwe mkristu kumbuka mateso yangu,\nUache makosa, uache dhambi\nUache makosa, uache dhambi\""
+    ]
+  }
+]

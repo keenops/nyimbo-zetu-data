@@ -3,19 +3,21 @@
     "id": 1,
     "title": "Zaeni Matunda Mema",
     "verses": [
-      "Zaeni matunda mema, zaeni matunda yale, zaeni yenye baraka, zaeni ya heri\nBwana akiyapokea, yatabarikiwa vyema, zaeni matunda mema, zaeni ya heri",
+      "Zaeni matunda mema, zaeni matunda yale, zaeni yenye baraka, zaeni ya heri",
       "Safisha mwenendo wako, safisha matendo yako, safisha na Bwana Yesu, safisha yote",
       "Fanyeni kazi kindugu, fanyeni kazi kwa bidii, fanyeni na Bwana Yesu fanyeni na yote",
       "Tolea matendo yako pamoja na moyo wako, naye Bwana Mungu wako atakubariki",
       "Baraka za Mungu Baba, baraka za Mungu mwana, Na za Roho Mtakatifu ziwe nanyi nyote"
-    ]
+    ],
+    "chorus": "Bwana akiyapokea, yatabarikiwa vyema, zaeni matunda mema, zaeni ya heri"
   },
   {
     "id": 2,
     "title": "Mungu Ni Pendo",
     "verses": [
       "Mungu ni pendo, apenda watu\nMungu ni pendo anipenda",
-      "Nilipotea katika dhambi\nNikawa mtumwa wa shetani\nAkafa Yesu kanikomboa\nYeye kanipa kuwa huru",
+      "Nilipotea katika dhambi\nNikawa mtumwa wa shetani",
+      "Akafa Yesu kanikomboa\nYeye kanipa kuwa huru",
       "Sababu hii namtumikia\nNamsifu yeye siku zote"
     ],
     "chorus": "Sikilizeni furaha yangu\nMungu ni pendo anipenda"
